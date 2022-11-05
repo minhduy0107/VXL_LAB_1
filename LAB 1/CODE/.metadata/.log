@@ -1,0 +1,60 @@
+!SESSION 2022-11-05 17:03:48.653 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-11-05 17:04:04.326
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-11-05 17:04:04.388
+!MESSAGE Log4j initialized with config file E:\VXL LAB\LAB 1\CODE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-11-05 17:04:07.367
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 17:06:36.876
+!MESSAGE Indexed 'Lab1-Exercise1' (19 sources, 78 headers) in 1.87 sec: 3,647 declarations; 13,057 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 17:11:51.334
+!MESSAGE Indexed 'Lab1-Exercise2' (19 sources, 78 headers) in 1.18 sec: 3,647 declarations; 13,057 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 17:19:52.588
+!MESSAGE Indexed 'Lab1-Exercise3' (19 sources, 78 headers) in 1.31 sec: 3,647 declarations; 13,057 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 17:32:00.742
+!MESSAGE Indexed 'Lab1-Exercise4' (19 sources, 78 headers) in 1.16 sec: 3,647 declarations; 13,057 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 17:48:02.948
+!MESSAGE Indexed 'Lab1-Exercise5' (19 sources, 78 headers) in 1.12 sec: 3,647 declarations; 13,057 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2022-11-05 20:00:56.293 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-11-05 20:01:47.006
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-11-05 20:01:47.099
+!MESSAGE Log4j initialized with config file E:\VXL LAB\LAB 1\CODE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-11-05 20:01:55.311
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 20:40:22.097
+!MESSAGE Indexed 'Lab1-Exercise6' (19 sources, 78 headers) in 1.79 sec: 3,647 declarations; 13,057 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 20:57:30.561
+!MESSAGE Indexed 'Lab1-Exercise7' (19 sources, 78 headers) in 1.67 sec: 3,653 declarations; 13,160 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 21:04:09.616
+!MESSAGE Indexed 'Lab1-Exercise8' (19 sources, 78 headers) in 1.56 sec: 3,653 declarations; 13,160 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 21:16:56.295
+!MESSAGE Indexed 'Lab1-Exercise9' (19 sources, 78 headers) in 1.5 sec: 3,653 declarations; 13,160 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-05 21:22:41.704
+!MESSAGE Indexed 'Lab1-Exercise10' (19 sources, 78 headers) in 1.36 sec: 3,653 declarations; 13,160 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
